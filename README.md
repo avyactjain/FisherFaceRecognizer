@@ -6,6 +6,7 @@ This Piece of Software is based on CV2 - python.
 Steps to Run the Code :-
 
 #1. In the variable 'CascPath', put the address of the 'haarcascade_frontalface_default.xml' file provided with the code.
+
 #2. In the 'working_path' variable defined in the function 'face_lock', put the path to your testing data.
 
 every remanining detail is provided in the code itself.
